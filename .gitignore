@@ -1,0 +1,105 @@
+## Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# React and Next.js specific
+.next/
+out/
+*.next/
+*.css.map
+
+# Solana specific
+target/
+.anchor/
+.DS_Store
+test-ledger/
+
+# Ethereum specific (Truffle/Hardhat)
+artifacts/
+cache/
+*.sol.js
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Miscellaneous files to ignore
+*.bak
+*.swp
+*~ Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# React and Next.js specific
+.next/
+out/
+*.next/
+*.css.map
+
+# Solana specific
+target/
+.anchor/
+.DS_Store
+test-ledger/
+
+# Ethereum specific (Truffle/Hardhat)
+artifacts/
+cache/
+*.sol.js
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Miscellaneous files to ignore
+*.bak
+*.swp
+*~
